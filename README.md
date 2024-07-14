@@ -1,3 +1,7 @@
+<p align="center">
+  	<img width="auto" height="auto" src="img/Badge_ForoHub_ONE.png">
+</p>
+
 # ForoHub - Oracle y Alura Challenge
 
 **ForoHub** es una aplicación web desarrollada en Java con Spring Boot para gestionar tópicos en un foro, una solución para el cuarto desafío de programación de Oracle Next Generation (ONE) de Alura. La aplicación permite a los usuarios autenticados crear, listar, actualizar y eliminar tópicos. Utiliza PostgreSQL como sistema de gestión de bases de datos y está diseñada para seguir buenas prácticas de desarrollo de APIs REST.
