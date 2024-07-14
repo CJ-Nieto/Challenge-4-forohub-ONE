@@ -35,7 +35,9 @@ El proyecto está organizado en los siguientes paquetes principales:
 
 A continuación, se muestra un diagrama sugerido para la base de datos:
 
-![Diagrama de Base de Datos](https://via.placeholder.com/500x300.png?text=Diagrama+de+Base+de+Datos) 
+<p align="center">
+  	<img width="auto" height="auto" src="img/forohub_db.png">
+</p>
 
 >[!NOTE]
 > Este diagrama es una referencia; puedes adaptar la estructura según tus necesidades.
@@ -123,7 +125,7 @@ Visita `http://localhost:8080/swagger-ui/` para explorar y probar los endpoints 
 
 ## Comandos para Probar la API
 
-Puedes probar los endpoints de la API usando herramientas como [Insomnia](https://insomnia.com/) o [Postman](https://www.postman.com/).
+Puedes probar los endpoints de la API usando herramientas como [Soap UI](https://www.soapui.org/) o [Postman](https://www.postman.com/).
 
 ### Ejemplos de Endpoints
 
@@ -166,11 +168,11 @@ Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras errores, 
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE.md).
 
 ## Referencias
 
 - [Documentación de Spring Boot](https://spring.io/projects/spring-boot)
 - [Documentación de PostgreSQL](https://www.postgresql.org/docs/)
-- [Flyway Migraciones](https://flywaydb.org/documentation/)
+- [Flyway Migraciones](https://documentation.red-gate.com/fd/)
 - [Spring Security](https://spring.io/projects/spring-security)
